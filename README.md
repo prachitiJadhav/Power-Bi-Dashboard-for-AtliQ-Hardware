@@ -1,7 +1,7 @@
 # Power-Bi-Dashboard-for-AtliQ-Hardware
 
 I built this Power BI dashboard for AtliQ Hardware company and also learned how to extract data from SQL Server Management Studio (SSMS). 
-Thanks to Dhaval Patel and Hemanand Vadivel for posting this end-to-end project on codebasics youtube channel.
+
 
 Through this project, I learnt:
 1. How to connect SQL server management studio (SSMS) to Power BI and get data.
